@@ -1,3 +1,6 @@
+Author: iurnah,
+Email: iurnah@gmail.com
+
 This is the project to study the classification of debian packages,
 extract features based on debian pacakges tags and specific field in
 control file of the .deb file as a .arff format data set. This is a
